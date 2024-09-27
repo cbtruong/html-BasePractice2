@@ -74,6 +74,7 @@
 		background-color: rgb(192, 75, 75);
 	}
 }
+/* change screen */
 @media (max-width: 768px) {
 	html {
 	  font-size: 8px;
