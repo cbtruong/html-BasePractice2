@@ -41,7 +41,6 @@
 	.paragraph {
 		font-size: 1.25rem;
 		text-align: center;
-		padding: 0 3rem;
 	}
 	input {
 		margin: 1.25rem 0;
@@ -78,6 +77,9 @@
 @media (max-width: 768px) {
 	html {
 	  font-size: 8px;
+	}
+	.paragraph {
+		padding: 0rem 3rem;
 	}
 }
 @media (min-width: 768px) {
